@@ -1,0 +1,3 @@
+cohort,granularity,n_units,events,mde_recomputed,mde_lo,mde_hi,mde_reported_180min
+MIMIC-III,ICU-level,441,132,9.5,7.5,10.5,2.49
+VitalDB,Case-level,3039,686,1.0,1.0,1.0,6.46

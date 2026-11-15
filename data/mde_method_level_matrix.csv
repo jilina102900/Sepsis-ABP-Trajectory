@@ -1,0 +1,7 @@
+Cohort,Granularity,60 min,90 min,120 min,150 min,180 min,240 min,300 min
+MIMIC,Window-level,8.24,6.93,6.75,6.51,6.46,6.47,6.34
+MIMIC,Segment-level,7.73,5.95,4.85,3.87,3.48,3.08,2.49
+MIMIC,ICU-level,5.4,4.01,3.74,3.01,2.49,2.04,1.8
+VitalDB,Window-level,15.42,12.65,11.92,11.62,11.57,11.69,11.71
+VitalDB,Track-level,18.3,10.88,8.56,7.03,6.46,5.72,5.43
+VitalDB,Case-level,18.3,10.91,8.56,7.05,6.46,5.73,5.42

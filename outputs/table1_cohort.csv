@@ -1,0 +1,32 @@
+cohort,characteristic,value,n
+MIMIC 480,n stays / cases,480,480
+MIMIC 480,sepsis events,145 (30.2%),480
+MIMIC 480,age,"67.37 [56.92, 78.55]",480
+MIMIC 480,map_mean,"72.44 [63.39, 82.03]",316
+MIMIC 480,map_min,"62.00 [52.00, 72.00]",297
+MIMIC 480,hr_mean,"88.40 [76.00, 103.67]",319
+MIMIC 480,lactate_mean,"2.35 [1.50, 3.73]",244
+MIMIC 480,urine_4h,"380.00 [161.25, 777.50]",350
+MIMIC 480,tau_slope,"-0.00 [-0.12, 0.15]",480
+MIMIC 441,n stays / cases,441,441
+MIMIC 441,sepsis events,132 (29.9%),441
+MIMIC 441,tau_proxy_slope_pct_h,"-1.52 [-17.81, 16.89]",441
+MIMIC 319,n stays / cases,319,319
+MIMIC 319,sepsis events,77 (24.1%),319
+MIMIC 319,hr_mean,"88.40 [76.00, 103.67]",319
+VitalDB,n stays / cases,3199,3199
+VitalDB,IOH events,696 (21.8%),3199
+VitalDB,age,"61.00 [51.00, 70.00]",3199
+VitalDB,tau_base_mean,"0.20 [0.18, 0.23]",3040
+"VitalDB 1,043",n stays / cases,1043,1043
+"VitalDB 1,043",IOH events,325 (31.2%),1043
+"VitalDB 1,043",unique patients,1036,1043
+"VitalDB 1,043",eligible baseline window (min),"13.00 [9.00, 18.00]",1043
+"VitalDB 1,043",age,"59.00 [49.50, 68.00]",1043
+"VitalDB 1,043",map_mean,"88.53 [81.25, 97.80]",1043
+"VitalDB 1,043",map_min,"24.00 [20.00, 38.00]",1043
+"VitalDB 1,043",hr_mean,"83.33 [72.07, 96.70]",1043
+"VitalDB 1,043",tau_slope,"2.24 [-0.09, 5.37]",1043
+"VitalDB 1,043",tau_level,"0.25 [0.18, 0.30]",1043
+"VitalDB 1,043",tau_median,"0.25 [0.18, 0.30]",1043
+"VitalDB 1,043",tau_r2_5min,"0.68 [0.28, 0.89]",768
