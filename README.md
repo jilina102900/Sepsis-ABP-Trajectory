@@ -7,7 +7,7 @@
 
 This repository contains the analysis code behind *"Detectability of arterial
 pressure waveform-derived decay time constant drift in sepsis-associated
-hypotension"* (submitted to *Briefings in Bioinformatics*).
+hypotension"* .
 
 The study asks a narrow question: the arterial pressure waveform carries a
 Windkessel decay time constant (tau) whose drift over time has been proposed as a
